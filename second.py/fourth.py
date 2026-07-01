@@ -1,0 +1,12 @@
+Name = input("Enter your name")
+Age = input("Enter your age")
+Country = input("Enter your country")
+Color = input("Enter your favourite color")
+job = input("Enter your job")
+
+print("----User profile----")
+print("name:", Name)
+print("age:", Age)
+print("country:", Country)
+print("your favourite color:", Color)
+print("job:", job)
